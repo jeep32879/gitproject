@@ -1,3 +1,3 @@
 readme.txt document
 hello+
-added new
+suppressed  new
